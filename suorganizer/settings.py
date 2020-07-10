@@ -40,6 +40,8 @@ INSTALLED_APPS = [
     # my app features
     'organizer',
     'blog',
+    # extensions
+    'django_extensions',
 ]
 
 MIDDLEWARE = [
